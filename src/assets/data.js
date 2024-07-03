@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "What is React?",
+      option1: "A library for building user interfaces",
+      option2: "A programming language",
+      option3: "A web server",
+      option4: "A database",
+      ans: 1,
+    },
+    {
+      question: "What is a component in React?",
+      option1: "A function that runs in the backend",
+      option2: "A HTML element",
+      option3: "A reusable piece of UI",
+      option4: "A CSS file ",
+      ans: 3,
+    },
+    {
+      question: "How do you create a component in React?",
+      option1: "By defining a function or a class that returns JSX",
+      option2: "By writing HTML code",
+      option3: "By creating a CSS file",
+      option4: "By setting up a database",
+      ans: 1,
+    },
+    {
+      question: "What is JSX?",
+      option1: "A type of database",
+      option2: "A CSS preprocessor",
+      option3: "JavaScript XML, a syntax extension that looks similar to HTML",
+      option4: "A backend framework",
+      ans: 3,
+    },
+    {
+      question: "What is the purpose of the useState hook in React?",
+      option1: "To handle HTTP requests",
+      option2: "To style components",
+      option3: "To create a new React app",
+      option4: "To manage the component's state",
+      ans: 4,
+    },
+  ];
